@@ -1,2 +1,2 @@
-# Car-Bar
-service for buying and selling cars
+# CAR-BAR
+Software Engineering Project
